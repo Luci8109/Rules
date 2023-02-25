@@ -1,6 +1,5 @@
 payload:
   # > 内容：TikTok
-  - USER-AGENT,TikTok*
   - DOMAIN-KEYWORD,tiktokcdn-
   - DOMAIN-SUFFIX,byteoversea.com
   - DOMAIN-SUFFIX,ibytedtos.com
