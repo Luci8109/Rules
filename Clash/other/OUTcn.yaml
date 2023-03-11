@@ -1,0 +1,3 @@
+payload:
+  # > 内容：强制代理
+  - DOMAIN,debian.map.fastlydns.net
