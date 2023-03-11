@@ -1,5 +1,5 @@
 payload:
-  # > X内容：强制不代理
+  # > 内容：强制不代理
   - DOMAIN-SUFFIX,xuexi.cn
   - DOMAIN-SUFFIX,taobao.com
   - DOMAIN-SUFFIX,qq.com
