@@ -3,8 +3,6 @@ payload:
   #Debian相关
   - DOMAIN,debian.map.fastlydns.net
   - DOMAIN,deb.debian.org
-  #Mark Pro
-  - DOMAIN,lic.nolanhhhh.eu.org
   #AI相关规则链
   - DOMAIN-SUFFIX,openai.com
   - DOMAIN-SUFFIX,openai.nooc.ink
@@ -15,3 +13,6 @@ payload:
   - DOMAIN,openaiapi-site.azureedge.net
   - DOMAIN-SUFFIX,ai.com
   - DOMAIN-SUFFIX,openai.com
+  #Mark Pro
+  - DOMAIN,lic.nolanhhhh.eu.org
+
