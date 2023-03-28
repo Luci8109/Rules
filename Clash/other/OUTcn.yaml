@@ -3,4 +3,15 @@ payload:
   #Debian相关
   - DOMAIN,debian.map.fastlydns.net
   - DOMAIN,deb.debian.org
+  #Mark Pro
   - DOMAIN,lic.nolanhhhh.eu.org
+  #AI相关规则链
+  - DOMAIN-SUFFIX,openai.com
+  - DOMAIN-SUFFIX,openai.nooc.ink
+  - DOMAIN-SUFFIX,AI.com
+  - DOMAIN-SUFFIX,bing.com
+  #chatgpt
+  - DOMAIN,cdn.auth0.com
+  - DOMAIN,openaiapi-site.azureedge.net
+  - DOMAIN-SUFFIX,ai.com
+  - DOMAIN-SUFFIX,openai.com
