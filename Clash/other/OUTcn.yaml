@@ -3,6 +3,8 @@ payload:
   #Debian相关
   - DOMAIN,debian.map.fastlydns.net
   - DOMAIN,deb.debian.org
+  #甲骨云
+  - DOMAIN,oracle.com
   #AI相关规则链
   - DOMAIN-SUFFIX,openai.com
   - DOMAIN-SUFFIX,openai.nooc.ink
