@@ -2,7 +2,7 @@ payload:
   # > 内容：强制代理
   #Debian相关
   - DOMAIN,debian.map.fastlydns.net
-  - DOMAIN,deb.debian.org
+  - DOMAIN,debian.org
   #甲骨云
   - DOMAIN,oracle.com
   #Mark Pro
