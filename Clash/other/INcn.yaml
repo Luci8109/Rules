@@ -10,4 +10,4 @@ payload:
   - DOMAIN-SUFFIX,meituan.com
   - DOMAIN-SUFFIX,meituan.net
   - DOMAIN-SUFFIX,plex.tv
-  #- DOMAIN-SUFFIX,myexternalip.com
+  - DOMAIN-SUFFIX,myexternalip.com
