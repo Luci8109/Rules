@@ -11,3 +11,5 @@ payload:
   - DOMAIN,ark.yanyuwangluo.cn
   #Bing
   - DOMAIN,bing.com
+  #Diablo
+  - DOMAIN,blizzard.com
