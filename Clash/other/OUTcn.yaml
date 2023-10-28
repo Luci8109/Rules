@@ -11,3 +11,5 @@ payload:
   - DOMAIN,ark.yanyuwangluo.cn
   #Bing
   - DOMAIN,bing.com
+  #iyzico土耳其虚拟卡
+  - DOMAIN,iyzipay.com
