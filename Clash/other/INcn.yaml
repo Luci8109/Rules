@@ -11,3 +11,5 @@ payload:
   - DOMAIN-SUFFIX,meituan.net
   - DOMAIN-SUFFIX,plex.tv
   - DOMAIN-SUFFIX,myexternalip.com
+  - DOMAIN-SUFFIX,right.com.cn
+
