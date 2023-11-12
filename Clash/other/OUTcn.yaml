@@ -3,9 +3,13 @@ payload:
   #Debian相关
   - DOMAIN,debian.map.fastlydns.net
   - DOMAIN,debian.org
+  #python相关
+  - DOMAIN,pythonhosted.org
+  - DOMAIN,pypi.org
   #甲骨云
   - DOMAIN,oracle.com
   #Mark Pro
+  - DOMAIN,nolanstore.cc
   - DOMAIN,lic.nolanhhhh.eu.org
   - DOMAIN,129888.xyz
   - DOMAIN,ark.yanyuwangluo.cn
