@@ -12,5 +12,9 @@ payload:
   - DOMAIN-SUFFIX,plex.tv
   - DOMAIN-SUFFIX,myexternalip.com
   - DOMAIN-SUFFIX,right.com.cn
-#吾爱破解
+  # Xbox 下载
+  - DOMAIN-SUFFIX,assets1.xboxlive.com
+  - DOMAIN-SUFFIX,assets2.xboxlive.com
+  - DOMAIN-SUFFIX,assets3.xboxlive.com
+  #吾爱破解
   - DOMAIN-SUFFIX,52pojie.cn
