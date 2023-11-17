@@ -10,4 +10,5 @@ payload:
   - DOMAIN,openaiapi-site.azureedge.net
   - DOMAIN-SUFFIX,ai.com
   - DOMAIN-SUFFIX,arkoselabs.com
-
+  - DOMAIN-SUFFIX,oaistatic.com
+  - DOMAIN-SUFFIX,oaiusercontent.com
