@@ -1,17 +1,24 @@
 payload:
   # > 内容：强制代理
-  #AI相关规则链
-  - DOMAIN-SUFFIX,openai.com
-  - DOMAIN-SUFFIX,challenges.cloudflare.com
-  - DOMAIN-SUFFIX,ai.com
-  - DOMAIN-SUFFIX,openai.nooc.ink
-  - DOMAIN-SUFFIX,AI.com
   #chatgpt
+  - DOMAIN-SUFFIX,ai.com
+  - DOMAIN-SUFFIX,openai.com
   - DOMAIN,cdn.auth0.com
   - DOMAIN,openaiapi-site.azureedge.net
   - DOMAIN-SUFFIX,ai.com
   - DOMAIN-SUFFIX,arkoselabs.com
+  - DOMAIN-SUFFIX,oaistatic.com
+  - DOMAIN-SUFFIX,oaiusercontent.com
   #bing、Copilot
   - DOMAIN-SUFFIX,bing.com
   - DOMAIN-SUFFIX,bing.net
   - DOMAIN-SUFFIX,copilot.microsoft.com
+  #AI相关规则链
+  - DOMAIN-SUFFIX,challenges.cloudflare.com
+  - DOMAIN-SUFFIX,openai.nooc.ink
+  - DOMAIN-SUFFIX,AI.com
+  
+
+
+
+
