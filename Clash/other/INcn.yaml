@@ -13,7 +13,7 @@ payload:
   - DOMAIN-SUFFIX,myexternalip.com
   - DOMAIN-SUFFIX,right.com.cn
   # Xbox 下载
-  - DOMAIN-SUFFIX,assets1.xboxlive.cn
-  - DOMAIN-SUFFIX,assets2.xboxlive.cn
-  - DOMAIN-SUFFIX,d1.xboxlive.cn
-  - DOMAIN-SUFFIX,d2.xboxlive.cn
+  #- DOMAIN-SUFFIX,assets1.xboxlive.cn
+  #- DOMAIN-SUFFIX,assets2.xboxlive.cn
+  #- DOMAIN-SUFFIX,d1.xboxlive.cn
+  #- DOMAIN-SUFFIX,d2.xboxlive.cn
