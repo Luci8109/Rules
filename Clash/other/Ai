@@ -1,0 +1,32 @@
+payload:
+  # > 内容：强制代理
+  #chatgpt
+  - DOMAIN-SUFFIX,ai.com
+  - DOMAIN-SUFFIX,openai.com
+  - DOMAIN,cdn.auth0.com
+  - DOMAIN,openaiapi-site.azureedge.net
+  - DOMAIN-SUFFIX,ai.com
+  - DOMAIN-SUFFIX,arkoselabs.com
+  - DOMAIN-SUFFIX,oaistatic.com
+  - DOMAIN-SUFFIX,oaiusercontent.com
+  #bing、Copilot
+  - DOMAIN-SUFFIX,bing.cn
+  - DOMAIN-SUFFIX,bing.net
+  - DOMAIN-SUFFIX,bing.jp
+  - DOMAIN-SUFFIX,bing.com
+  - DOMAIN-SUFFIX,bing.com.bo
+  - DOMAIN-SUFFIX,bing.com.co
+  - DOMAIN-SUFFIX,bing.com.cy
+  - DOMAIN-SUFFIX,bing.com.gt
+  - DOMAIN-SUFFIX,bing123.com
+  - DOMAIN-SUFFIX,bing135.com
+  - DOMAIN-SUFFIX,bing4.com
+  - DOMAIN-SUFFIX,bingapis.com
+  - DOMAIN-SUFFIX,bingforbusiness.com
+  - DOMAIN-SUFFIX,copilot.microsoft.com
+  - DOMAIN-SUFFIX,msxiaobing.com
+  #AI相关规则链
+  - DOMAIN-SUFFIX,challenges.cloudflare.com
+  - DOMAIN-SUFFIX,openai.nooc.ink
+  - DOMAIN-SUFFIX,AI.com
+  
