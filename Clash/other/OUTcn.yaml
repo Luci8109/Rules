@@ -21,4 +21,4 @@ payload:
   - DOMAIN,iyzipay.com
   #Dler机场
   - DOMAIN-SUFFIX,dlercloud.com
-  - DOMAIN-KEYWORD,dler
+  - DOMAIN-SUFFIX,dler.cloud
