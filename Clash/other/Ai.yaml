@@ -25,8 +25,8 @@ payload:
   - DOMAIN-SUFFIX,bingforbusiness.com
   - DOMAIN-SUFFIX,copilot.microsoft.com
   - DOMAIN-SUFFIX,msxiaobing.com
+  - DOMAIN-SUFFIX,microsoftapp.net
   #AI相关规则链
   - DOMAIN-SUFFIX,challenges.cloudflare.com
   - DOMAIN-SUFFIX,openai.nooc.ink
   - DOMAIN-SUFFIX,AI.com
-  
