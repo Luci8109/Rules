@@ -12,6 +12,10 @@ payload:
   - DOMAIN-SUFFIX,plex.tv
   - DOMAIN-SUFFIX,myexternalip.com
   - DOMAIN-SUFFIX,right.com.cn
+  - DOMAIN-SUFFIX,cdn.jsdelivr.net
+  - DOMAIN-SUFFIX,ingest.sentry.io
+  - DOMAIN-SUFFIX,hostbuf.com
+  - DOMAIN-SUFFIX,p.s-downloader.com
   # Xbox 下载
   #- DOMAIN-SUFFIX,assets1.xboxlive.cn
   #- DOMAIN-SUFFIX,assets2.xboxlive.cn
