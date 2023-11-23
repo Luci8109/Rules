@@ -2,6 +2,7 @@ payload:
   # > 内容：强制代理
   #github
   - DOMAIN-SUFFIX,raw.githubusercontent.com
+  - DOMAIN-SUFFIX,github.com
   #Debian相关
   - DOMAIN,debian.map.fastlydns.net
   - DOMAIN,debian.org
