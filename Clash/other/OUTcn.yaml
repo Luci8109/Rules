@@ -1,5 +1,7 @@
 payload:
   # > 内容：强制代理
+  #github
+  - DOMAIN-SUFFIX,raw.githubusercontent.com
   #Debian相关
   - DOMAIN,debian.map.fastlydns.net
   - DOMAIN,debian.org
@@ -14,10 +16,8 @@ payload:
   - DOMAIN,129888.xyz
   - DOMAIN,ark.yanyuwangluo.cn
   - DOMAIN,repro.dsdog.tk
-  #Bing
-  - DOMAIN,bing.com
   #iyzico土耳其虚拟卡
   - DOMAIN,iyzipay.com
   #Dler机场
-  - DOMAIN,dlercloud.com
+  - DOMAIN-SUFFIX,dlercloud.com
   - DOMAIN-KEYWORD,dler
