@@ -18,3 +18,6 @@ payload:
   - DOMAIN,bing.com
   #iyzico土耳其虚拟卡
   - DOMAIN,iyzipay.com
+  #Dler机场
+  - DOMAIN,dlercloud.com
+  - DOMAIN-KEYWORD,dler
