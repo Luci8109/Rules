@@ -22,3 +22,5 @@ payload:
   #Dler机场
   - DOMAIN-SUFFIX,dlercloud.com
   - DOMAIN-SUFFIX,dler.cloud
+  #Nvidia
+  - DOMAIN,nvidia.com
