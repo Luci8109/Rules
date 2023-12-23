@@ -16,6 +16,8 @@ payload:
   - DOMAIN-SUFFIX,ingest.sentry.io
   - DOMAIN-SUFFIX,hostbuf.com
   - DOMAIN-SUFFIX,p.s-downloader.com
+  #IPTV
+  - DOMAIN-SUFFIX,gyssi.link
   # Xbox 下载
   #- DOMAIN-SUFFIX,assets1.xboxlive.cn
   #- DOMAIN-SUFFIX,assets2.xboxlive.cn
