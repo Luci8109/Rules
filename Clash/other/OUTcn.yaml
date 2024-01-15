@@ -25,4 +25,6 @@ payload:
   #Nvidia
   - DOMAIN,nvidia.com
   #翔佬机场
-  #- DOMAIN-SUFFIX,v2board.20120714.xyz
+  - DOMAIN-SUFFIX,v2board.20120714.xyz
+  #魔戒机场
+  - DOMAIN-SUFFIX,mojie.me
