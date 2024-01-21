@@ -10,6 +10,31 @@ payload:
   - DOMAIN-SUFFIX,oaistatic.com
   - DOMAIN-SUFFIX,oaiusercontent.com
   #bing、Copilot
+  - DOMAIN,th.bing.com
+  - DOMAIN,www.bingapis.com
+  - DOMAIN,sapphire.api.microsoftapp.net
+  - DOMAIN,prod.rewardsplatform.microsoft.com
+  - DOMAIN,c.clarity.ms
+  - DOMAIN,c.bing.com
+  - DOMAIN,sydney.bing.com
+  - DOMAIN,www.clarity.ms
+  - DOMAIN,p.clarity.ms
+  - DOMAIN,dealczars.bing-shopping.microsoft-falcon.io
+  - DOMAIN,shopping.bing-shopping.microsoft-falcon.io
+  - DOMAIN,cdn.jsdelivr.net
+  - DOMAIN,logincdn.msauth.net
+  - DOMAIN,account.live.com
+  - DOMAIN,acctcdn.msauth.net
+  - DOMAIN,odc.officeapps.live.com
+  - DOMAIN,substrate.office.com
+  - DOMAIN,ssl.bing.com
+  - DOMAIN,services.bingapis.com
+  - DOMAIN,location.microsoft.com
+  - DOMAIN,api.msn.com
+  - DOMAIN,gateway.bingviz.microsoftapp.net
+  - DOMAIN,in.appcenter.ms
+  - DOMAIN,self.events.data.microsoft.com
+  - DOMAIN,login.microsoftonline.com
   - DOMAIN-SUFFIX,bing.cn
   - DOMAIN-SUFFIX,bing.net
   - DOMAIN-SUFFIX,bing.jp
