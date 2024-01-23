@@ -28,3 +28,5 @@ payload:
   - DOMAIN-SUFFIX,v2board.20120714.xyz
   #魔戒机场
   - DOMAIN-SUFFIX,mojie.me
+  #不良林
+  - DOMAIN-SUFFIX,bulianglin.com
