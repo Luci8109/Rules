@@ -5,7 +5,7 @@ payload:
   #- DOMAIN,github.com
   #Debian相关
   - DOMAIN,debian.map.fastlydns.net
-  - DOMAIN,debian.org
+  - DOMAIN-SUFFIX,debian.org
   #python相关
   - DOMAIN,pythonhosted.org
   - DOMAIN,pypi.org
