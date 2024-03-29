@@ -17,6 +17,10 @@ payload:
   - DOMAIN-SUFFIX,hostbuf.com
   - DOMAIN-SUFFIX,p.s-downloader.com
   - DOMAIN-SUFFIX,zhihu.com
+  #ip
+  - IP-CIDR,43.154.172.162
+  - IP-CIDR,42.194.250.35
+  - IP-CIDR,5.5.5.5
   #IPTV
   - DOMAIN-SUFFIX,gyssi.link
   # Xbox 下载
