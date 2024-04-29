@@ -33,4 +33,4 @@ payload:
   #阿里云国际
   - DOMAIN-SUFFIX,alibabacloud.com
   #windows VirtIO驱动
-  - DOMAIN-SUFFIX,fedorapeople.org
+  #- DOMAIN-SUFFIX,fedorapeople.org
