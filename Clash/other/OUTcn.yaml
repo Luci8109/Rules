@@ -32,5 +32,7 @@ payload:
   - DOMAIN-SUFFIX,bulianglin.com
   #阿里云国际
   - DOMAIN-SUFFIX,alibabacloud.com
+  #TMDB-API
+  - DOMAIN-SUFFIX,api.tmdb.org
   #windows VirtIO驱动
   #- DOMAIN-SUFFIX,fedorapeople.org
