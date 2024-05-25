@@ -34,5 +34,7 @@ payload:
   - DOMAIN-SUFFIX,alibabacloud.com
   #TMDB-API
   - DOMAIN-SUFFIX,api.tmdb.org
+  #NovaXNS
+  - DOMAIN-SUFFIX,xns.one
   #windows VirtIO驱动
   #- DOMAIN-SUFFIX,fedorapeople.org
