@@ -37,6 +37,6 @@ payload:
   #小雅Alist
   - DOMAIN-SUFFIX,docker.xiaoya.pro
   #PVE下载
-  - DOMAIN-SUFFIX,download.proxmox.com
+  #- DOMAIN-SUFFIX,download.proxmox.com
   #windows VirtIO驱动
   #- DOMAIN-SUFFIX,fedorapeople.org
