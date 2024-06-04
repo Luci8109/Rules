@@ -6,6 +6,8 @@ payload:
   #Debian相关
   - DOMAIN,debian.map.fastlydns.net
   - DOMAIN-SUFFIX,debian.org
+  #docker
+  - DOMAIN-SUFFIX,docker.io
   #python相关
   - DOMAIN,pythonhosted.org
   - DOMAIN,pypi.org
