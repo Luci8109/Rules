@@ -1,33 +1,5 @@
 payload:
-  # > 内容：强制不代理
-  - DOMAIN-SUFFIX,xuexi.cn
-  - DOMAIN-SUFFIX,taobao.com
-  - DOMAIN-SUFFIX,qq.com
-  - DOMAIN-SUFFIX,jd.com
-  - DOMAIN-SUFFIX,freenom.com
-  - DOMAIN-SUFFIX,360buyimg.com
-  - DOMAIN-SUFFIX,008109.xyz
-  - DOMAIN-SUFFIX,520144.xyz
-  - DOMAIN-SUFFIX,meituan.com
-  - DOMAIN-SUFFIX,meituan.net
-  - DOMAIN-SUFFIX,plex.tv
-  - DOMAIN-SUFFIX,myexternalip.com
-  - DOMAIN-SUFFIX,right.com.cn
-  - DOMAIN-SUFFIX,cdn.jsdelivr.net
-  - DOMAIN-SUFFIX,ingest.sentry.io
-  - DOMAIN-SUFFIX,hostbuf.com
-  - DOMAIN-SUFFIX,p.s-downloader.com
-  - DOMAIN-SUFFIX,zhihu.com
-  #ip
-  - IP-CIDR,43.154.172.162/32
-  - IP-CIDR,42.194.250.35/32
-  - IP-CIDR,5.5.5.5/32
-  #IPTV
-  - DOMAIN-SUFFIX,gyssi.link
-  # Xbox 下载
-  #- DOMAIN-SUFFIX,assets1.xboxlive.cn
-  #- DOMAIN-SUFFIX,assets2.xboxlive.cn
-  #- DOMAIN-SUFFIX,d1.xboxlive.cn
-  #- DOMAIN-SUFFIX,d2.xboxlive.cn
-  #windows VirtIO驱动
-  - DOMAIN-SUFFIX,fedorapeople.org
+  # > 内容：Plex相关
+  #翔佬Plex
+  - DOMAIN-SUFFIX,plex.20120714.xyz
+
