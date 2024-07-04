@@ -26,8 +26,8 @@ payload:
   - DOMAIN-SUFFIX,dler.cloud
   #Nvidia
   - DOMAIN,nvidia.com
-  #翔佬机场
-  - DOMAIN-SUFFIX,v2board.20120714.xyz
+  #翔佬域名
+  - DOMAIN-SUFFIX,20120714.xyz
   #魔戒机场
   - DOMAIN-SUFFIX,mojie.me
   #不良林
