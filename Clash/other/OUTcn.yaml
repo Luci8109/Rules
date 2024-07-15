@@ -5,6 +5,7 @@ payload:
   #- DOMAIN,github.com
   - DOMAIN-SUFFIX,cloudflare.com
   - DOMAIN-SUFFIX,tailscale.com
+  - DOMAIN-SUFFIX,githubusercontent.com
   #Debian相关
   - DOMAIN,debian.map.fastlydns.net
   - DOMAIN-SUFFIX,debian.org
