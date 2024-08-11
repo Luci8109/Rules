@@ -43,8 +43,8 @@ payload:
   - DOMAIN-SUFFIX,docker.xiaoya.pro
   #visual studio code
   - DOMAIN-SUFFIX,visualstudio.com
-  #当贝国际版
-  - DOMAIN-SUFFIX,us.dangbei.com
+  #Epic下载
+  - DOMAIN-SUFFIX,egdownload.fastly-edge.com
   #PVE下载
   #- DOMAIN-SUFFIX,download.proxmox.com
   #windows VirtIO驱动
