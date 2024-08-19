@@ -45,6 +45,8 @@ payload:
   - DOMAIN-SUFFIX,visualstudio.com
   #Epic下载
   - DOMAIN-SUFFIX,egdownload.fastly-edge.com
+  #HA论坛
+  - DOMAIN-SUFFIX,bbs.hassbian.com
   #PVE下载
   #- DOMAIN-SUFFIX,download.proxmox.com
   #windows VirtIO驱动
