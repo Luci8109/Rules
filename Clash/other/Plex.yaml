@@ -1,6 +1,6 @@
 payload:
   # > 内容：Plex相关
   #Plex官网
-  - DOMAIN-SUFFIX,plex.tv
+  #- DOMAIN-SUFFIX,plex.tv
   #翔佬Plex
   - DOMAIN-SUFFIX,plex.20120714.xyz
