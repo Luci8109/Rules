@@ -11,6 +11,7 @@ payload:
   - DOMAIN-SUFFIX,debian.org
   #docker
   - DOMAIN-SUFFIX,docker.io
+  - DOMAIN-SUFFIX,registry-1.docker.io
   #python相关
   - DOMAIN,pythonhosted.org
   - DOMAIN,pypi.org
