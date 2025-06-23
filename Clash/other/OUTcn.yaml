@@ -50,6 +50,8 @@ payload:
   - DOMAIN-SUFFIX,bbs.hassbian.com
   #无界云
   - DOMAIN-SUFFIX,gdhhh.one
+  #主机论坛
+  - DOMAIN-SUFFIX,hostloc.com
   #PVE下载
   #- DOMAIN-SUFFIX,download.proxmox.com
   #windows VirtIO驱动
