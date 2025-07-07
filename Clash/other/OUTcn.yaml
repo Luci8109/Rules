@@ -52,6 +52,8 @@ payload:
   - DOMAIN-SUFFIX,gdhhh.one
   #主机论坛
   - DOMAIN-SUFFIX,hostloc.com
+  #阿里云盘论坛
+  - DOMAIN-SUFFIX,alipanba.com
   #PVE下载
   #- DOMAIN-SUFFIX,download.proxmox.com
   #windows VirtIO驱动
