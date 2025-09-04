@@ -2,6 +2,8 @@ payload:
   # > 内容：强制代理
   #ROS
   - DOMAIN-SUFFIX,mikrotik.com
+  #腾讯云国际站
+  - DOMAIN-SUFFIX,tencentcloud.com
   #github
   #- DOMAIN,raw.githubusercontent.com
   #- DOMAIN,github.com
