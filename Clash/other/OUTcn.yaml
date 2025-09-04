@@ -1,7 +1,7 @@
 payload:
   # > 内容：强制代理
-  #HifiMusic
-  - DOMAIN-SUFFIX,hifini.com
+  #ROS
+  - DOMAIN-SUFFIX,mikrotik.com
   #github
   #- DOMAIN,raw.githubusercontent.com
   #- DOMAIN,github.com
