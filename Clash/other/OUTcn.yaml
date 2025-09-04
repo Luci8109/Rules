@@ -4,6 +4,7 @@ payload:
   - DOMAIN-SUFFIX,mikrotik.com
   #腾讯云国际站
   - DOMAIN-SUFFIX,tencentcloud.com
+  - DOMAIN-SUFFIX,alibabacloud.com
   #github
   #- DOMAIN,raw.githubusercontent.com
   #- DOMAIN,github.com
