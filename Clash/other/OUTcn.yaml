@@ -1,5 +1,7 @@
 payload:
   # > 内容：强制代理
+  #临时
+  - DOMAIN-SUFFIX,c.gle
   #ROS
   - DOMAIN-SUFFIX,mikrotik.com
   #腾讯云国际站
