@@ -63,5 +63,7 @@ payload:
   #- DOMAIN-SUFFIX,alipanba.com
   #PVE下载
   - DOMAIN-SUFFIX,proxmox.com
+  #Docker安装
+  - DOMAIN-SUFFIX,docker.com
   #windows VirtIO驱动
   #- DOMAIN-SUFFIX,fedorapeople.org
