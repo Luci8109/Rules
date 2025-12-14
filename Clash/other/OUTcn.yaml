@@ -62,6 +62,6 @@ payload:
   #阿里云盘论坛
   #- DOMAIN-SUFFIX,alipanba.com
   #PVE下载
-  #- DOMAIN-SUFFIX,download.proxmox.com
+  - DOMAIN-SUFFIX,proxmox.com
   #windows VirtIO驱动
   #- DOMAIN-SUFFIX,fedorapeople.org
