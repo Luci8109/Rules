@@ -65,5 +65,7 @@ payload:
   - DOMAIN-SUFFIX,proxmox.com
   #Docker安装
   - DOMAIN-SUFFIX,docker.com
+  #USDT (Polygon)
+  - DOMAIN-SUFFIX,okx.com
   #windows VirtIO驱动
   #- DOMAIN-SUFFIX,fedorapeople.org
