@@ -2,6 +2,8 @@ payload:
   # > 内容：强制代理
   #临时
   - DOMAIN-SUFFIX,c.gle
+  - DOMAIN-SUFFIX,missav123.com
+  - DOMAIN-SUFFIX,mypikpak.com
   #- DOMAIN-SUFFIX,hifiti.com
   #ROS
   - DOMAIN-SUFFIX,mikrotik.com
