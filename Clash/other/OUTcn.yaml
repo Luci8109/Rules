@@ -7,6 +7,8 @@ payload:
   #- DOMAIN-SUFFIX,hifiti.com
   #ROS
   - DOMAIN-SUFFIX,mikrotik.com
+  #google Play商店更新
+  - DOMAIN-SUFFIX,services.googleapis.cn
   #腾讯云国际站
   - DOMAIN-SUFFIX,tencentcloud.com
   - DOMAIN-SUFFIX,alibabacloud.com
