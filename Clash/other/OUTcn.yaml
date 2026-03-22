@@ -9,6 +9,14 @@ payload:
   - DOMAIN-SUFFIX,mikrotik.com
   #google Play商店更新
   - DOMAIN-SUFFIX,services.googleapis.cn
+  - DOMAIN-SUFFIX,rr1---sn-i3b7knzl.xn--ngstr-lra8j.com
+  - DOMAIN-SUFFIX,rr2---sn-i3b7knzl.xn--ngstr-lra8j.com
+  - DOMAIN-SUFFIX,rr3---sn-i3b7knzl.xn--ngstr-lra8j.com
+  - DOMAIN-SUFFIX,rr4---sn-i3b7knzl.xn--ngstr-lra8j.com
+  - DOMAIN-SUFFIX,rr5---sn-i3b7knzl.xn--ngstr-lra8j.com
+  - DOMAIN-SUFFIX,rr6---sn-i3b7knzl.xn--ngstr-lra8j.com
+  - DOMAIN-SUFFIX,rr7---sn-i3b7knzl.xn--ngstr-lra8j.com
+  - DOMAIN-SUFFIX,rr8---sn-i3b7knzl.xn--ngstr-lra8j.com
   #腾讯云国际站
   - DOMAIN-SUFFIX,tencentcloud.com
   - DOMAIN-SUFFIX,alibabacloud.com
