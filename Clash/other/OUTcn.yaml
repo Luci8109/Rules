@@ -82,9 +82,8 @@ payload:
   - DOMAIN-SUFFIX,okx.com
   #Linux.do
   - DOMAIN-SUFFIX,linux.do
-  #hdhive.com
-  - DOMAIN-SUFFIX,hdhive.com
-  - DOMAIN-SUFFIX,hdhive.org
+  #hdhive影巢
+  - DOMAIN-KEYWORD,hdhive
   - DOMAIN-SUFFIX,nullbr.online
   #windows VirtIO驱动
   #- DOMAIN-SUFFIX,fedorapeople.org
