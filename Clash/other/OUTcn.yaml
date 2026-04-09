@@ -80,5 +80,7 @@ payload:
   - DOMAIN-SUFFIX,docker.com
   #USDT (Polygon)
   - DOMAIN-SUFFIX,okx.com
+  #Linux.do
+  - DOMAIN-SUFFIX,linux.do
   #windows VirtIO驱动
   #- DOMAIN-SUFFIX,fedorapeople.org
