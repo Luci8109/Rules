@@ -84,5 +84,6 @@ payload:
   - DOMAIN-SUFFIX,linux.do
   #hdhive.com
   - DOMAIN-SUFFIX,hdhive.com
+  - DOMAIN-SUFFIX,hdhive.org
   #windows VirtIO驱动
   #- DOMAIN-SUFFIX,fedorapeople.org
