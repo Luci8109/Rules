@@ -7,5 +7,5 @@ payload:
   - IP-CIDR,104.16.0.0/12,no-resolve
   
   # 如果你想更彻底一点，可以直接加入这几个 Cloudflare 核心段
-  #- IP-CIDR,108.162.192.0/18,no-resolve
-  #- IP-CIDR,162.158.0.0/15,no-resolve
+  - IP-CIDR,108.162.192.0/18,no-resolve
+  - IP-CIDR,162.158.0.0/15,no-resolve
