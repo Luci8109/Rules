@@ -2,3 +2,11 @@ payload:
   # > 内容：Hdhive影巢
   - DOMAIN-KEYWORD,hdhive
   - DOMAIN-SUFFIX,nullbr.online
+  # > 强制 IP 分流 (防止 ECH 导致域名探测失败)
+  # 针对你解析出的两个具体 IP 段
+  - IP-CIDR,172.64.0.0/13,影巢,no-resolve
+  - IP-CIDR,104.16.0.0/12,影巢,no-resolve
+  
+  # 如果你想更彻底一点，可以直接加入这几个 Cloudflare 核心段
+  #- IP-CIDR,108.162.192.0/18,影巢,no-resolve
+  #- IP-CIDR,162.158.0.0/15,影巢,no-resolve
