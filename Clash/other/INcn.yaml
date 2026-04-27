@@ -31,3 +31,6 @@ payload:
   #- DOMAIN-SUFFIX,d2.xboxlive.cn
   #windows VirtIO驱动
   - DOMAIN-SUFFIX,fedorapeople.org
+  #机场订阅
+  - DOMAIN-SUFFIX,api-huacloud.net
+  - DOMAIN-SUFFIX,wujiejichang.uk
