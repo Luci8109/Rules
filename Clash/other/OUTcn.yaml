@@ -10,8 +10,8 @@ payload:
   #ROS
   - DOMAIN-SUFFIX,mikrotik.com
   #机场订阅
-  - DOMAIN-SUFFIX,api-huacloud.net
-  - DOMAIN-SUFFIX,wujiejichang.uk
+  #- DOMAIN-SUFFIX,api-huacloud.net
+  #- DOMAIN-SUFFIX,wujiejichang.uk
   #google Play商店更新
   - DOMAIN-SUFFIX,services.googleapis.cn
   - DOMAIN-SUFFIX,rr1---sn-i3b7knzl.xn--ngstr-lra8j.com
