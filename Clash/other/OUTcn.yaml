@@ -11,6 +11,8 @@ payload:
   - DOMAIN-SUFFIX,黑客帝国.com
   - DOMAIN-SUFFIX,肖申克的救赎.com
   - DOMAIN-SUFFIX,教父.com
+  - DOMAIN-KEYWORD,教父
+  - DOMAIN-SUFFIX,xn--wcv59z.com
   - DOMAIN-SUFFIX,hgeme.com
   #临时
   - DOMAIN-SUFFIX,c.gle
