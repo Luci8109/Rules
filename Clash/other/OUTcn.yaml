@@ -3,9 +3,15 @@ payload:
   #翔佬
   - DOMAIN-SUFFIX,20120714.xyz
   #观影
-  - DOMAIN-KEYWORD,gying
+  - DOMAIN-SUFFIX,星际穿越.com
+  - DOMAIN-SUFFIX,楚门的世界.com
+  - DOMAIN-SUFFIX,泰坦尼克号.com
+  - DOMAIN-SUFFIX,盗梦空间.com
+  - DOMAIN-SUFFIX,阿甘正传.com
+  - DOMAIN-SUFFIX,黑客帝国.com
   - DOMAIN-SUFFIX,肖申克的救赎.com
   - DOMAIN-SUFFIX,教父.com
+  - DOMAIN-SUFFIX,hgeme.com
   #临时
   - DOMAIN-SUFFIX,c.gle
   - DOMAIN-SUFFIX,missav123.com
