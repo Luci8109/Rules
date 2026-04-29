@@ -2,6 +2,8 @@ payload:
   # > 内容：强制代理
   #翔佬
   - DOMAIN-SUFFIX,20120714.xyz
+  #观影
+  - DOMAIN-SUFFIX,gying.net
   #临时
   - DOMAIN-SUFFIX,c.gle
   - DOMAIN-SUFFIX,missav123.com
