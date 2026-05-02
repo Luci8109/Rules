@@ -1,19 +1,13 @@
 payload:
   # > 内容：强制代理
-  #翔佬
+  # 翔佬
   - DOMAIN-SUFFIX,20120714.xyz
-  #观影
-  - DOMAIN-SUFFIX,星际穿越.com
-  - DOMAIN-SUFFIX,楚门的世界.com
-  - DOMAIN-SUFFIX,泰坦尼克号.com
-  - DOMAIN-SUFFIX,盗梦空间.com
-  - DOMAIN-SUFFIX,阿甘正传.com
-  - DOMAIN-SUFFIX,黑客帝国.com
-  - DOMAIN-SUFFIX,肖申克的救赎.com
+  # 观影
   - DOMAIN-SUFFIX,教父.com
-  - DOMAIN-KEYWORD,教父
   - DOMAIN-SUFFIX,xn--wcv59z.com
   - DOMAIN-SUFFIX,hgeme.com
+  # TMDB相关
+  - DOMAIN-SUFFIX,themoviedb.org
   #临时
   - DOMAIN-SUFFIX,c.gle
   - DOMAIN-SUFFIX,missav123.com
@@ -21,10 +15,10 @@ payload:
   #- DOMAIN-SUFFIX,hifiti.com
   #ROS
   - DOMAIN-SUFFIX,mikrotik.com
-  #机场订阅
+  # 机场订阅
   #- DOMAIN-SUFFIX,api-huacloud.net
   #- DOMAIN-SUFFIX,wujiejichang.uk
-  #google Play商店更新
+  # google Play商店更新
   - DOMAIN-SUFFIX,services.googleapis.cn
   - DOMAIN-SUFFIX,rr1---sn-i3b7knzl.xn--ngstr-lra8j.com
   - DOMAIN-SUFFIX,rr2---sn-i3b7knzl.xn--ngstr-lra8j.com
@@ -34,22 +28,22 @@ payload:
   - DOMAIN-SUFFIX,rr6---sn-i3b7knzl.xn--ngstr-lra8j.com
   - DOMAIN-SUFFIX,rr7---sn-i3b7knzl.xn--ngstr-lra8j.com
   - DOMAIN-SUFFIX,rr8---sn-i3b7knzl.xn--ngstr-lra8j.com
-  #腾讯云国际站
+  # 腾讯云国际站
   - DOMAIN-SUFFIX,tencentcloud.com
   - DOMAIN-SUFFIX,alibabacloud.com
-  #github
+  # github
   #- DOMAIN,raw.githubusercontent.com
   #- DOMAIN,github.com
   - DOMAIN-SUFFIX,cloudflare.com
   - DOMAIN-SUFFIX,tailscale.com
   - DOMAIN-SUFFIX,githubusercontent.com
-  #Debian相关
+  # Debian相关
   - DOMAIN,debian.map.fastlydns.net
   - DOMAIN-SUFFIX,debian.org
-  #docker
+  # docker
   - DOMAIN-SUFFIX,docker.io
   - DOMAIN-SUFFIX,registry-1.docker.io
-  #python相关
+  # python相关
   - DOMAIN,pythonhosted.org
   - DOMAIN,pypi.org
   #甲骨云
@@ -60,44 +54,42 @@ payload:
   - DOMAIN,129888.xyz
   - DOMAIN,ark.yanyuwangluo.cn
   - DOMAIN,repro.dsdog.tk
-  #iyzico土耳其虚拟卡
+  # iyzico土耳其虚拟卡
   - DOMAIN,iyzipay.com
-  #Dler机场
+  # Dler机场
   - DOMAIN-SUFFIX,dlercloud.com
   - DOMAIN-SUFFIX,dler.cloud
-  #Nvidia
+  # Nvidia
   - DOMAIN,nvidia.com
-  #翔佬域名
-  #- DOMAIN-SUFFIX,20120714.xyz
-  #魔戒机场
+  # 魔戒机场
   - DOMAIN-SUFFIX,mojie.me
-  #不良林
+  # 不良林
   - DOMAIN-SUFFIX,bulianglin.com
-  #阿里云国际
+  # 阿里云国际
   - DOMAIN-SUFFIX,alibabacloud.com
   #TMDB-API
   - DOMAIN-SUFFIX,api.tmdb.org
-  #小雅Alist
+  # 小雅Alist
   #- DOMAIN-SUFFIX,docker.xiaoya.pro
-  #visual studio code
+  # visual studio code
   - DOMAIN-SUFFIX,visualstudio.com
-  #Epic下载
+  # Epic下载
   - DOMAIN-SUFFIX,egdownload.fastly-edge.com
-  #HA论坛
+  # HA论坛
   - DOMAIN-SUFFIX,bbs.hassbian.com
-  #无界云
+  # 无界云
   - DOMAIN-SUFFIX,gdhhh.one
-  #主机论坛
+  # 主机论坛
   - DOMAIN-SUFFIX,hostloc.com
-  #阿里云盘论坛
+  # 阿里云盘论坛
   #- DOMAIN-SUFFIX,alipanba.com
-  #PVE下载
+  # PVE下载
   - DOMAIN-SUFFIX,proxmox.com
-  #Docker安装
+  # Docker安装
   - DOMAIN-SUFFIX,docker.com
-  #USDT (Polygon)
+  # USDT (Polygon)
   - DOMAIN-SUFFIX,okx.com
   - DOMAIN-SUFFIX,nodeseek.com
   - DOMAIN-SUFFIX,linux.do
-  #windows VirtIO驱动
+  # windows VirtIO驱动
   #- DOMAIN-SUFFIX,fedorapeople.org
