@@ -11,6 +11,12 @@ payload:
   - DOMAIN-SUFFIX,thetvdb.com
   #搬瓦工
   - DOMAIN-SUFFIX,bandwagonhost.com
+  #机场
+  - DOMAIN-SUFFIX,oixcloud.com
+  - DOMAIN-SUFFIX,api-flowercloud.com
+  - DOMAIN-SUFFIX,xn--9kqz23b19z.com
+  - DOMAIN-SUFFIX,bigmess.org
+  - DOMAIN-SUFFIX,mojie.me
   #临时
   - DOMAIN-SUFFIX,c.gle
   - DOMAIN-SUFFIX,missav123.com
