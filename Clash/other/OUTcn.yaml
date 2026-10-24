@@ -100,5 +100,7 @@ payload:
   - DOMAIN-SUFFIX,okx.com
   - DOMAIN-SUFFIX,nodeseek.com
   - DOMAIN-SUFFIX,linux.do
+  #hostloc
+  - DOMAIN-SUFFIX,hostloc.com
   # windows VirtIO驱动
   #- DOMAIN-SUFFIX,fedorapeople.org
